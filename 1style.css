@@ -1,0 +1,96 @@
+#navbar {
+    
+    overflow: hidden;
+    position: absolute;
+    right: 0px;
+    top: 2px;
+
+  }
+  .myDiv {
+    
+    background-color: #f1d609;
+  }
+  
+ 
+  #navbar a {
+    color: rgb(7, 7, 7);
+    text-align: center;
+    padding: 15px;
+    float: left;
+    display: block;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+     font-size: 28px;
+  }
+  a:hover {
+    background-color: white;
+  }
+ 
+  .sticky {
+    position: fixed;
+    top: 0;
+    width: 100%;
+  }
+  .mainbody{
+    color: white;
+    font-family: 'Montserrat';
+
+  }
+
+ .para{
+   
+    position: absolute;
+    width: 917px;
+    height: 238px;
+    left: 63px;
+    top: 285px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 28px;
+    line-height: 34px;
+    
+}
+.image{
+    position: absolute;
+    
+    width: 697px;
+    height: 482px;
+    left: 1678px;
+    top: 173px;
+
+  }
+  .button {
+    position: absolute;
+width: 323px;
+height: 66px;
+left: 63px;
+top: 613px;
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 28px;
+line-height: 34px;
+
+background: #FCAF02;
+border-radius: 500px;
+  }
+ .contactus{
+position: absolute;
+width: 369px;
+height: 78px;
+left: 63px;
+top: 771px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 64px;
+line-height: 78px;
+/* identical to box height */
+
+
+color: #FCAF02;
+ }
+ 
